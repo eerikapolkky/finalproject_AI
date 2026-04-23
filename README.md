@@ -68,3 +68,13 @@ This project includes:
 It goes beyond a simple single request-response system but does not include external data sources or advanced pipelines.
 
 ---
+
+
+## DEMO VIDEO ABOUT THE WORKING APPLICATION:
+
+[![Watch the video](https://img.youtube.com/vi/loNE4eK1Mr4/0.jpg)](https://youtu.be/loNE4eK1Mr4)
+
+
+
+
+
