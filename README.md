@@ -71,6 +71,7 @@ It goes beyond a simple single request-response system but does not include exte
 
 
 ## DEMO VIDEO ABOUT THE WORKING APPLICATION:
+Click the image!
 
 [![Watch the video](https://img.youtube.com/vi/loNE4eK1Mr4/0.jpg)](https://youtu.be/loNE4eK1Mr4)
 
